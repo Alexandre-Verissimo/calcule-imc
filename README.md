@@ -30,7 +30,7 @@ Um simples projeto de calculadora de IMC (Índice de Massa Corporal) desenvolvid
 
 ## Demonstração
 
-![Demo](assets/image/demo.png)
+![Demo](assets/image/Demo.png)
 
 ## Tecnologias Utilizadas
 
